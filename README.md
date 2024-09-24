@@ -1,5 +1,5 @@
 # flax-kwt
-Flax version of Keyword Transformer (KWT)
+Flax implementation of Keyword Transformer (KWT)
 
 
 

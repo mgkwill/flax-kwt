@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "flax-kwt"
+version = "0.1.0"
+description = "Flax implementation of Keyword Transformer (KWT)"
+authors = ["Marcus G K Williams <Marcus G K Williams <168222+mgkwill@users.noreply.github.com>>"]
+license = "Apache 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
